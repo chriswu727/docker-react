@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. AWS run test23
+          Edit <code>src/App.js</code> and save to reload. AWS run test on feature branch
         </p>
         <a
           className="App-link"
